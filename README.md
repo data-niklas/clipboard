@@ -1,6 +1,9 @@
 # clipboard
 
-TODO: Write a description here
+A simple to use clipboard library, which supports:
+- Setting text as the clipboard content
+- Getting the clipboard content
+- Clearing the clipboard
 
 ## Installation
 
