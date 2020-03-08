@@ -5,6 +5,9 @@ A simple to use clipboard library, which supports:
 - Getting the clipboard content
 - Clearing the clipboard
 
+It binds to the libclipboard library:
+https://github.com/jtanx/libclipboard
+
 ## Installation
 
 1. Add the dependency to your `shard.yml`:
