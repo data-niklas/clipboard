@@ -36,6 +36,7 @@ When setting the clipboard content:
 - The program may not exit directly!
 - Wait at least ~100 milliseconds before exiting
 - Else `get_text()` will return the correct text, but Ctrl+V won't work
+- The systems clipboard manager first needs to own / acquire the clipboard content!
 
 ## Development
 
